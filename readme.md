@@ -2,8 +2,6 @@
 
 ### I am currently a second-year student of Ho Chi Minh City Transportation University
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsanhkhoi12&label=Profile views&color=0e75b6&style=flat" alt="itsanhkhoi12" /> </p>
-
 - 🌱 I'm currently learning **Airflow and Advanced MongoDB**
 
 - 📫 How to reach me **anhkhoi5602@gmail.com**

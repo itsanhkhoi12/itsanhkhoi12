@@ -2,7 +2,7 @@
 
 ### I am currently a second-year student of Ho Chi Minh City Transportation University
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsanhkhoi12&label=Profile views&color=0e75b6&style=flat" alt="itsanhkhoi12" /> </p>
+![](https://komarev.com/ghpvc/?username=itsanhkhoi12&color=red&style=for-the-badge)
 
 - 🌱 I'm currently learning **Airflow and Advanced MongoDB**
 
